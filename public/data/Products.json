@@ -1,0 +1,142 @@
+[
+  {
+    "id": "001",
+    "product_name": "T-Shirt",
+    "available_quantity": 50,
+    "description": "Premium cotton t-shirt in black colour",
+    "price": 19.99
+  },
+  {
+    "id": "002",
+    "product_name": "Jeans",
+    "available_quantity": 20,
+    "description": "Slim-fit jeans in blue colour for men",
+    "price": 39.99
+  },
+  {
+    "id": "003",
+    "product_name": "Sneakers",
+    "available_quantity": 15,
+    "description": "Classic white sneakers with rubber sole",
+    "price": 59.99
+  },
+  {
+    "id": "004",
+    "product_name": "Backpack",
+    "available_quantity": 30,
+    "description": "Durable backpack with multiple compartments",
+    "price": 29.99
+  },
+  {
+    "id": "005",
+    "product_name": "Watch",
+    "available_quantity": 10,
+    "description": "Stylish stainless steel watch with leather strap",
+    "price": 99.99
+  },
+  {
+    "id": "006",
+    "product_name": "Headphones",
+    "available_quantity": 25,
+    "description": "Wireless over-ear headphones with noise cancellation",
+    "price": 79.99
+  },
+  {
+    "id": "007",
+    "product_name": "Dress",
+    "available_quantity": 35,
+    "description": "Elegant floral print dress for special occasions",
+    "price": 49.99
+  },
+  {
+    "id": "008",
+    "product_name": "Running Shoes",
+    "available_quantity": 18,
+    "description": "Lightweight running shoes with breathable mesh",
+    "price": 69.99
+  },
+  {
+    "id": "009",
+    "product_name": "Laptop",
+    "available_quantity": 5,
+    "description": "15.6-inch laptop with high-performance specifications",
+    "price": 899.99
+  },
+  {
+    "id": "010",
+    "product_name": "Smartphone",
+    "available_quantity": 8,
+    "description": "5G-enabled smartphone with dual-camera setup",
+    "price": 699.99
+  },
+  {
+    "id": "011",
+    "product_name": "Gaming Console",
+    "available_quantity": 3,
+    "description": "Next-generation gaming console with 4K support",
+    "price": 499.99
+  },
+  {
+    "id": "012",
+    "product_name": "Digital Camera",
+    "available_quantity": 12,
+    "description": "Mirrorless camera with interchangeable lenses",
+    "price": 799.99
+  },
+  {
+    "id": "013",
+    "product_name": "Smart TV",
+    "available_quantity": 6,
+    "description": "55-inch 4K Ultra HD smart TV with built-in streaming",
+    "price": 899.99
+  },
+  {
+    "id": "014",
+    "product_name": "Fitness Tracker",
+    "available_quantity": 22,
+    "description": "Waterproof fitness tracker with heart rate monitor",
+    "price": 79.99
+  },
+  {
+    "id": "015",
+    "product_name": "Bluetooth Speaker",
+    "available_quantity": 40,
+    "description": "Portable Bluetooth speaker with 10 hours of battery life",
+    "price": 49.99
+  },
+  {
+    "id": "016",
+    "product_name": "Sunglasses",
+    "available_quantity": 28,
+    "description": "UV-protected sunglasses with polarized lenses",
+    "price": 29.99
+  },
+  {
+    "id": "017",
+    "product_name": "Wireless Mouse",
+    "available_quantity": 17,
+    "description": "Ergonomic wireless mouse with adjustable DPI",
+    "price": 19.99
+  },
+  {
+    "id": "018",
+    "product_name": "External Hard Drive",
+    "available_quantity": 9,
+    "description": "1TB portable external hard drive with USB 3.0",
+    "price": 79.99
+  },
+  {
+    "id": "019",
+    "product_name": "Yoga Mat",
+    "available_quantity": 30,
+    "description": "Non-slip yoga mat with carrying strap",
+    "price": 24.99
+  },
+  {
+    "id": "020",
+    "product_name": "Cookware Set",
+    "available_quantity": 15,
+    "description": "10-piece non-stick cookware set with glass lids",
+    "price": 129.99
+  }
+]
